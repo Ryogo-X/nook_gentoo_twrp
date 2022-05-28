@@ -24,4 +24,4 @@ Not possible, `fastboot boot <path_to_recovery_image>` is not working on this de
 8. `lunch omni_gentoo-userdebug`
 9. `mka recoveryimage`
 
-if everything is successful you should find built recovery by path <twrp_repo>/out/target/product/nook_ntx_generic/recovery.img
+if everything is successful you should find built recovery by path <twrp_repo>/out/target/product/gentoo/recovery.img
