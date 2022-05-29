@@ -1,0 +1,4 @@
+[submodule "gentoo/theme"]
+	path = gentoo/theme
+	url = https://github.com/Ryogo-Z/twrp_monochrome_portrait_hdpi_theme/
+	branch = master
