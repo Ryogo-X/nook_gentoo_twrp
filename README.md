@@ -3,10 +3,6 @@
 TWRP builds and is fully functional (hopefully).
 
 ### Test without installation
-1) enter fastboot;
-2) in cmd do `fastboot boot <path_to_recovery_image>`
-
-### Test without installation
 Not possible, `fastboot boot <path_to_recovery_image>` is not working on this device :(
 
 ### Installation
