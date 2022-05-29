@@ -25,3 +25,7 @@ Not possible, `fastboot boot <path_to_recovery_image>` is not working on this de
 9. `mka recoveryimage`
 
 if everything is successful you should find built recovery by path <twrp_repo>/out/target/product/gentoo/recovery.img
+
+## Credits
+Thanks to [Morxi](https://github.com/Morxi) for twrp base: https://github.com/Morxi/twrp_devices_allwinner_b300
+Thanks to [NiLuJe](https://github.com/NiLuJe) for [FBInk](https://github.com/NiLuJe/FBInk)
