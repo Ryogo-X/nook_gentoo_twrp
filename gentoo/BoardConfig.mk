@@ -71,8 +71,9 @@ TW_ROTATION := 90
 # Touch
 RECOVERY_TOUCHSCREEN_SWAP_XY := true
 RECOVERY_TOUCHSCREEN_FLIP_Y := true
-TW_IGNORE_MAJOR_AXIS_0 := true
 TW_NO_HAPTICS := true
+# XXX not sure if you need the following line to be commented out
+#TW_IGNORE_MAJOR_AXIS_0 := true
 
 # EINK
 TW_AW_EINK := true
